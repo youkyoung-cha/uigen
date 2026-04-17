@@ -1,0 +1,152 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e57]: Create a pricing card component with a title, price, feature list, and a call-to-action button.
+            - img [ref=e60]
+          - generic [ref=e76]:
+            - img [ref=e79]
+            - generic [ref=e84]:
+              - generic [ref=e85]:
+                - generic [ref=e87]: Created
+                - generic [ref=e88]: /App.jsx
+              - separator [ref=e89]
+              - generic [ref=e90]:
+                - paragraph [ref=e91]: "Done. Created a pricing card component with:"
+                - list [ref=e92]:
+                  - listitem [ref=e93]:
+                    - strong [ref=e94]: Dark gradient background
+                    - text: with deep slate/navy tones
+                  - listitem [ref=e95]:
+                    - strong [ref=e96]: Highlighted "Enterprise" card
+                    - text: that scales up and has a glowing border effect
+                  - listitem [ref=e97]:
+                    - strong [ref=e98]: Gradient price text
+                    - text: in pink-to-orange
+                  - listitem [ref=e99]:
+                    - strong [ref=e100]: Feature list
+                    - text: with custom checkmark icons
+                  - listitem [ref=e101]:
+                    - strong [ref=e102]: Interactive CTA button
+                    - text: with hover lift effect and shadow shift
+                  - listitem [ref=e103]:
+                    - strong [ref=e104]: Accent dividers
+                    - text: and bottom gradient line for visual depth
+                  - listitem [ref=e105]:
+                    - strong [ref=e106]: Responsive design
+                    - text: with Tailwind utilities
+                - paragraph [ref=e107]:
+                  - text: The component accepts
+                  - code [ref=e108]: title
+                  - text: ","
+                  - code [ref=e109]: price
+                  - text: ","
+                  - code [ref=e110]: period
+                  - text: ","
+                  - code [ref=e111]: description
+                  - text: ","
+                  - code [ref=e112]: features
+                  - text: array, and
+                  - code [ref=e113]: highlighted
+                  - text: boolean to customize each card.
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [selected] [ref=e32]
+          - tab "Code" [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - iframe [ref=e116]:
+        - generic [ref=f5e3]:
+          - generic [ref=f5e5]:
+            - heading "Professional" [level=3] [ref=f5e6]
+            - paragraph [ref=f5e7]: Perfect for growing teams
+            - generic [ref=f5e9]:
+              - generic [ref=f5e10]: $49
+              - generic [ref=f5e11]: per month
+            - list [ref=f5e13]:
+              - listitem [ref=f5e14]:
+                - img [ref=f5e16]
+                - generic [ref=f5e18]: Up to 50 projects
+              - listitem [ref=f5e19]:
+                - img [ref=f5e21]
+                - generic [ref=f5e23]: Advanced analytics
+              - listitem [ref=f5e24]:
+                - img [ref=f5e26]
+                - generic [ref=f5e28]: Priority support
+              - listitem [ref=f5e29]:
+                - img [ref=f5e31]
+                - generic [ref=f5e33]: Custom integrations
+              - listitem [ref=f5e34]:
+                - img [ref=f5e36]
+                - generic [ref=f5e38]: Team collaboration tools
+              - listitem [ref=f5e39]:
+                - img [ref=f5e41]
+                - generic [ref=f5e43]: API access
+            - button "Get Started" [ref=f5e44] [cursor=pointer]
+          - generic [ref=f5e48]:
+            - generic [ref=f5e50]: Most Popular
+            - heading "Enterprise" [level=3] [ref=f5e51]
+            - paragraph [ref=f5e52]: For large-scale operations
+            - generic [ref=f5e54]:
+              - generic [ref=f5e55]: $199
+              - generic [ref=f5e56]: per month
+            - list [ref=f5e58]:
+              - listitem [ref=f5e59]:
+                - img [ref=f5e61]
+                - generic [ref=f5e63]: Unlimited projects
+              - listitem [ref=f5e64]:
+                - img [ref=f5e66]
+                - generic [ref=f5e68]: Real-time analytics
+              - listitem [ref=f5e69]:
+                - img [ref=f5e71]
+                - generic [ref=f5e73]: 24/7 dedicated support
+              - listitem [ref=f5e74]:
+                - img [ref=f5e76]
+                - generic [ref=f5e78]: Custom integrations
+              - listitem [ref=f5e79]:
+                - img [ref=f5e81]
+                - generic [ref=f5e83]: Advanced team management
+              - listitem [ref=f5e84]:
+                - img [ref=f5e86]
+                - generic [ref=f5e88]: Full API access
+              - listitem [ref=f5e89]:
+                - img [ref=f5e91]
+                - generic [ref=f5e93]: SLA guarantee
+              - listitem [ref=f5e94]:
+                - img [ref=f5e96]
+                - generic [ref=f5e98]: Custom training
+            - button "Get Started" [ref=f5e99] [cursor=pointer]
+          - generic [ref=f5e102]:
+            - heading "Starter" [level=3] [ref=f5e103]
+            - paragraph [ref=f5e104]: Great for individuals
+            - generic [ref=f5e106]:
+              - generic [ref=f5e107]: $19
+              - generic [ref=f5e108]: per month
+            - list [ref=f5e110]:
+              - listitem [ref=f5e111]:
+                - img [ref=f5e113]
+                - generic [ref=f5e115]: Up to 10 projects
+              - listitem [ref=f5e116]:
+                - img [ref=f5e118]
+                - generic [ref=f5e120]: Basic analytics
+              - listitem [ref=f5e121]:
+                - img [ref=f5e123]
+                - generic [ref=f5e125]: Email support
+              - listitem [ref=f5e126]:
+                - img [ref=f5e128]
+                - generic [ref=f5e130]: Standard integrations
+              - listitem [ref=f5e131]:
+                - img [ref=f5e133]
+                - generic [ref=f5e135]: Single user
+            - button "Get Started" [ref=f5e136] [cursor=pointer]
+  - alert [ref=e47]

@@ -1,0 +1,105 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e57]: Create a pricing card component with a title, price, feature list, and a call-to-action button.
+            - img [ref=e60]
+          - generic [ref=e82]:
+            - img [ref=e85]
+            - generic [ref=e90]:
+              - generic [ref=e91]:
+                - generic [ref=e93]: Created
+                - generic [ref=e94]: /App.jsx
+              - separator [ref=e95]
+              - generic [ref=e96]:
+                - generic [ref=e98]: Created
+                - generic [ref=e99]: /components/PricingCard.jsx
+              - separator [ref=e100]
+              - generic [ref=e101]:
+                - paragraph [ref=e102]:
+                  - text: Done! Created a reusable
+                  - code [ref=e103]: PricingCard
+                  - text: "component with:"
+                - list [ref=e104]:
+                  - listitem [ref=e105]: Title, price, and period
+                  - listitem [ref=e106]: Feature list with checkmark icons
+                  - listitem [ref=e107]: Customizable CTA button (primary or outline variants)
+                  - listitem [ref=e108]: Optional "Most Popular" badge for highlighted cards
+                  - listitem [ref=e109]: Responsive grid layout in App.jsx with 3 example pricing tiers
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [selected] [ref=e32]
+          - tab "Code" [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - iframe [ref=e81]:
+        - generic [ref=f3e4]:
+          - generic [ref=f3e5]:
+            - heading "Starter" [level=3] [ref=f3e6]
+            - generic [ref=f3e7]: $29/month
+            - list [ref=f3e8]:
+              - listitem [ref=f3e9]:
+                - img [ref=f3e10]
+                - generic [ref=f3e12]: Up to 10 projects
+              - listitem [ref=f3e13]:
+                - img [ref=f3e14]
+                - generic [ref=f3e16]: 5GB storage
+              - listitem [ref=f3e17]:
+                - img [ref=f3e18]
+                - generic [ref=f3e20]: Basic support
+              - listitem [ref=f3e21]:
+                - img [ref=f3e22]
+                - generic [ref=f3e24]: Community access
+            - button "Get Started" [ref=f3e25] [cursor=pointer]
+          - generic [ref=f3e26]:
+            - generic [ref=f3e27]: MOST POPULAR
+            - heading "Professional" [level=3] [ref=f3e28]
+            - generic [ref=f3e29]: $79/month
+            - list [ref=f3e30]:
+              - listitem [ref=f3e31]:
+                - img [ref=f3e32]
+                - generic [ref=f3e34]: Unlimited projects
+              - listitem [ref=f3e35]:
+                - img [ref=f3e36]
+                - generic [ref=f3e38]: 500GB storage
+              - listitem [ref=f3e39]:
+                - img [ref=f3e40]
+                - generic [ref=f3e42]: Priority support
+              - listitem [ref=f3e43]:
+                - img [ref=f3e44]
+                - generic [ref=f3e46]: Advanced analytics
+              - listitem [ref=f3e47]:
+                - img [ref=f3e48]
+                - generic [ref=f3e50]: Team collaboration
+            - button "Start Free Trial" [ref=f3e51] [cursor=pointer]
+          - generic [ref=f3e52]:
+            - heading "Enterprise" [level=3] [ref=f3e53]
+            - generic [ref=f3e54]: $299/month
+            - list [ref=f3e55]:
+              - listitem [ref=f3e56]:
+                - img [ref=f3e57]
+                - generic [ref=f3e59]: Everything in Pro
+              - listitem [ref=f3e60]:
+                - img [ref=f3e61]
+                - generic [ref=f3e63]: Unlimited storage
+              - listitem [ref=f3e64]:
+                - img [ref=f3e65]
+                - generic [ref=f3e67]: 24/7 dedicated support
+              - listitem [ref=f3e68]:
+                - img [ref=f3e69]
+                - generic [ref=f3e71]: Custom integrations
+              - listitem [ref=f3e72]:
+                - img [ref=f3e73]
+                - generic [ref=f3e75]: SLA guarantee
+            - button "Contact Sales" [ref=f3e76] [cursor=pointer]
+  - alert [ref=e47]

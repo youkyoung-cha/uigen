@@ -1,0 +1,21 @@
+ ⚠ Port 3000 is in use, using available port 3001 instead.
+   ▲ Next.js 15.3.3 (Turbopack)
+   - Local:        http://localhost:3001
+   - Network:      http://172.17.226.110:3001
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Compiled middleware in 79ms
+ ✓ Ready in 850ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.3s
+ GET / 200 in 3725ms
+ ✓ Compiled /favicon.ico in 188ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 439ms
+ ✓ Compiled /api/chat in 344ms
+ POST /api/chat 200 in 9715ms
+ ✓ Compiled in 74ms
+ ✓ Compiled in 78ms
+ ✓ Compiled in 110ms
+ GET / 200 in 68ms
+ POST /api/chat 200 in 13603ms
